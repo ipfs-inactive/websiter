@@ -4,7 +4,7 @@ Foundation and tool for managing websites from Protocol.
 
 ## Contains
 
-* Base theme 
+* Base theme
 * Hugo for building/"compiling" website
 * Tools for publishing
 
@@ -17,5 +17,5 @@ Foundation and tool for managing websites from Protocol.
 ## Usage
 
 1. Clone repository to your local machine.
-2. Link `website` to somewhere in your PATH
-3. Execute `website` when inside a supported website OR use the Makefile that comes with the website
+2. Link `websiter` to somewhere in your PATH
+3. Execute `websiter` when inside a supported website OR use the Makefile that comes with the website
